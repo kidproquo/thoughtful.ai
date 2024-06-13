@@ -1,0 +1,1 @@
+This is a Python app. To run, type `python3 main.py`
